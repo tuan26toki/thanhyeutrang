@@ -1,0 +1,14 @@
+:root {
+    --my-color: rgb(93, 93, 145);
+}
+
+h1 {
+    color: var(--my-color);
+}
+
+h2 {
+    color: var(--my-color);
+}
+h3 {
+    color: var(--my-color);
+}
